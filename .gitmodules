@@ -1,0 +1,3 @@
+[submodule "modulo0"]
+	path = modulo0
+	url = https://github.com/agal4/modulo0.git
